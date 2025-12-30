@@ -2,7 +2,6 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
-#include "keymap_belgian.h"
 
 // COMBO'S
 const uint16_t PROGMEM combo1[] = {KC_F, KC_P, COMBO_END};
